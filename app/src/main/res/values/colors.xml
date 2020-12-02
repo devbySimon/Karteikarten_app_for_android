@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#F44336</color>
+    <color name="primaryColorLA">#BFF44336</color>
+    <color name="primaryColorDark">#D32F2F</color>
+
+    <color name="accentColor">#F54B4B</color>
+
+    <color name="backgroundColor">#FAFAFA</color>
+    <color name="backgroundColorSecondary">#F0F0F0</color>
+    <color name="backgroundColorContrast">#F44336</color>
+
+    <color name="textColor">#1a2842</color>
+    <color name="textColorTitle">#6E6E6E</color>
+
+
+    <color name="transparentColor">#00FFFFFF</color>
+
+</resources>
